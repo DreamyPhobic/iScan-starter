@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "810698895964",
+    "firebase_url": "https://iscan-dd92f.firebaseio.com",
+    "project_id": "iscan-dd92f",
+    "storage_bucket": "iscan-dd92f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810698895964:android:0f1202fdd7c56f8d",
+        "android_client_info": {
+          "package_name": "com.android.iscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810698895964-0qq19kn2h1kn62lrq8m3iap4rjqfr2fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx31iHITe1T3MwNfNHl9oMdyGo6utCCv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
